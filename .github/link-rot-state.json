@@ -1,4 +1,12 @@
 {
+  "https|ably.com|/examples|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
   "https|aimlesslygoingforward.com|/blog/2019/02/09/writing-a-rust-roguelike-for-the-desktop-and-the-web|": {
     "consecutive_failures": 0,
     "first_failed": null,
@@ -11,6 +19,14 @@
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|aosabook.org|/en/500L/a-python-interpreter-written-in-python.html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
     "last_class": "OK",
     "last_status": 200,
     "redirect_to": null
@@ -51,6 +67,14 @@
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|bigardone.dev|/blog/2016/01/04/trello-tribute-with-phoenix-and-react-pt-1|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
     "last_class": "OK",
     "last_status": 200,
     "redirect_to": null
@@ -319,6 +343,14 @@
     "last_status": 200,
     "redirect_to": null
   },
+  "https|buildyourownlisp.com||": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
   "https|codeburst.io|/build-a-chat-app-with-sentiment-analysis-using-next-js-c43ebf3ea643|": {
     "consecutive_failures": 0,
     "first_failed": null,
@@ -351,6 +383,14 @@
     "last_status": 403,
     "redirect_to": null
   },
+  "https|codecapsule.com|/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
   "https|codecrafters.io||": {
     "consecutive_failures": 0,
     "first_failed": null,
@@ -365,7 +405,7 @@
     "first_seen": "2026-07-04",
     "last_class": "OK",
     "last_status": 200,
-    "redirect_to": "https://codepr.github.io/posts/sol-mqtt-broker-bonus/"
+    "redirect_to": null
   },
   "https|codepr.github.io|/posts/sol-mqtt-broker-p2|": {
     "consecutive_failures": 0,
@@ -373,7 +413,7 @@
     "first_seen": "2026-07-04",
     "last_class": "OK",
     "last_status": 200,
-    "redirect_to": "https://codepr.github.io/posts/sol-mqtt-broker-p2/"
+    "redirect_to": null
   },
   "https|codepr.github.io|/posts/sol-mqtt-broker-p3|": {
     "consecutive_failures": 0,
@@ -381,7 +421,7 @@
     "first_seen": "2026-07-04",
     "last_class": "OK",
     "last_status": 200,
-    "redirect_to": "https://codepr.github.io/posts/sol-mqtt-broker-p3/"
+    "redirect_to": null
   },
   "https|codepr.github.io|/posts/sol-mqtt-broker-p4|": {
     "consecutive_failures": 0,
@@ -389,7 +429,7 @@
     "first_seen": "2026-07-04",
     "last_class": "OK",
     "last_status": 200,
-    "redirect_to": "https://codepr.github.io/posts/sol-mqtt-broker-p4/"
+    "redirect_to": null
   },
   "https|codepr.github.io|/posts/sol-mqtt-broker-p5|": {
     "consecutive_failures": 0,
@@ -397,7 +437,7 @@
     "first_seen": "2026-07-04",
     "last_class": "OK",
     "last_status": 200,
-    "redirect_to": "https://codepr.github.io/posts/sol-mqtt-broker-p5/"
+    "redirect_to": null
   },
   "https|codepr.github.io|/posts/sol-mqtt-broker-p6|": {
     "consecutive_failures": 0,
@@ -405,7 +445,7 @@
     "first_seen": "2026-07-04",
     "last_class": "OK",
     "last_status": 200,
-    "redirect_to": "https://codepr.github.io/posts/sol-mqtt-broker-p6/"
+    "redirect_to": null
   },
   "https|codepr.github.io|/posts/sol-mqtt-broker|": {
     "consecutive_failures": 0,
@@ -413,10 +453,10 @@
     "first_seen": "2026-07-04",
     "last_class": "OK",
     "last_status": 200,
-    "redirect_to": "https://codepr.github.io/posts/sol-mqtt-broker/"
+    "redirect_to": null
   },
   "https|codequs.com|/p/S14jQ5UyG/build-a-distributed-streaming-system-with-apache-kafka-and-python|": {
-    "consecutive_failures": 11,
+    "consecutive_failures": 12,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "SUSPECT",
@@ -430,6 +470,14 @@
     "last_class": "OK",
     "last_status": 200,
     "redirect_to": "https://cs193p.stanford.edu/"
+  },
+  "https|cs193p.stanford.edu||": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
   },
   "https|csl.name|/post/python-jit|": {
     "consecutive_failures": 0,
@@ -495,6 +543,14 @@
     "last_status": 200,
     "redirect_to": null
   },
+  "https|danielnouri.org|/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
   "https|data-flair.training|/blogs/advanced-python-project-detecting-fake-news|": {
     "consecutive_failures": 0,
     "first_failed": null,
@@ -508,7 +564,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "OK",
-    "last_status": 200,
+    "last_status": 204,
     "redirect_to": null
   },
   "https|developer.mozilla.org|/en-US/docs/Games/Tutorials/2D_breakout_game_Phaser|": {
@@ -531,6 +587,14 @@
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|egghead.io||": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
     "last_class": "OK",
     "last_status": 200,
     "redirect_to": null
@@ -651,6 +715,14 @@
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|fritz.ai|/how-to-train-a-keras-model-to-generate-colors|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
     "last_class": "OK",
     "last_status": 200,
     "redirect_to": null
@@ -999,6 +1071,14 @@
     "last_status": 200,
     "redirect_to": "https://mollyrocket.com/#handmade"
   },
+  "https|hasura.io|/blog/tutorial-fullstack-react-native-with-graphql-and-authentication-18183d13373a|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
   "https|heartbeat.fritz.ai|/how-to-train-a-keras-model-to-generate-colors-3bc79e54971b|": {
     "consecutive_failures": 0,
     "first_failed": null,
@@ -1023,6 +1103,22 @@
     "last_status": 200,
     "redirect_to": null
   },
+  "https|howistart.org|/posts/clojure/1/index.html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|howistart.org|/posts/cpp/1/index.html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
   "https|iamtrask.github.io|/2015/07/12/basic-python-network|": {
     "consecutive_failures": 0,
     "first_failed": null,
@@ -1039,10 +1135,34 @@
     "last_status": 200,
     "redirect_to": null
   },
+  "https|ilovephp.jondh.me.uk|/en/tutorial/make-your-own-blog|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|javarevisited.blogspot.com|/2015/06/how-to-create-http-server-in-java-serversocket-example.html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
   "https|javascript30.com||": {
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|javilop.com|/gamedev/tetris-tutorial-in-c-platform-independent-focused-in-game-logic-for-beginners|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
     "last_class": "OK",
     "last_status": 200,
     "redirect_to": null
@@ -1104,7 +1224,7 @@
     "redirect_to": null
   },
   "https|jguegant.github.io|//jguegant.github.io/blogs/tech/meta-crush-saga.html|": {
-    "consecutive_failures": 11,
+    "consecutive_failures": 12,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "SUSPECT",
@@ -1131,6 +1251,14 @@
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|lazyfoo.net|/tutorials/SDL|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
     "last_class": "OK",
     "last_status": 200,
     "redirect_to": null
@@ -1695,6 +1823,30 @@
     "last_status": 200,
     "redirect_to": "https://www.freecodecamp.org/news/using-data-science-to-understand-what-makes-wine-taste-good-669b496c67ee"
   },
+  "https|mherman.org|/blog/2016/04/28/test-driven-development-with-node|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|mherman.org||": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|mollyrocket.com||": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
   "https|nbaksalyar.github.io|/2015/07/10/writing-chat-in-rust.html|": {
     "consecutive_failures": 0,
     "first_failed": null,
@@ -1831,6 +1983,14 @@
     "last_status": 200,
     "redirect_to": null
   },
+  "https|philippflenker.com|/hecto|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
   "https|pwy.io|/en/posts/learning-to-fly-pt1|": {
     "consecutive_failures": 0,
     "first_failed": null,
@@ -1862,6 +2022,246 @@
     "last_class": "OK",
     "last_status": 200,
     "redirect_to": "https://pwy.io/posts/learning-to-fly-pt4/"
+  },
+  "https|pwy.io|/posts/learning-to-fly-pt1|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|pwy.io|/posts/learning-to-fly-pt2|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|pwy.io|/posts/learning-to-fly-pt3|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|pwy.io|/posts/learning-to-fly-pt4|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|pyimagesearch.com|/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|pyimagesearch.com|/2015/05/04/target-acquired-finding-targets-in-drone-and-quadcopter-video-streams-using-python-and-opencv|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|pyimagesearch.com|/2017/02/20/text-skew-correction-opencv-python|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|pyimagesearch.com|/2017/04/03/facial-landmarks-dlib-opencv-python|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|pyimagesearch.com|/2018/02/26/face-detection-with-opencv-and-deep-learning|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|pyimagesearch.com|/2018/04/02/faster-facial-landmark-detector-with-dlib|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|pyimagesearch.com|/2018/05/21/an-opencv-barcode-and-qr-code-scanner-with-zbar|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|pyimagesearch.com|/2018/06/18/face-recognition-with-opencv-python-and-deep-learning|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|pyimagesearch.com|/2018/07/09/face-clustering-with-python|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|pyimagesearch.com|/2018/07/16/opencv-saliency-detection|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|pyimagesearch.com|/2018/08/06/tracking-multiple-objects-with-opencv|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|pyimagesearch.com|/2018/08/13/opencv-people-counter|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|pyimagesearch.com|/2018/08/20/opencv-text-detection-east-text-detector|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|pyimagesearch.com|/2018/08/27/neural-style-transfer-with-opencv|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|pyimagesearch.com|/2018/09/03/semantic-segmentation-with-opencv-and-deep-learning|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|pyimagesearch.com|/2018/09/10/keras-tutorial-how-to-get-started-with-keras-deep-learning-and-python|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|pyimagesearch.com|/2018/09/17/opencv-ocr-and-text-recognition-with-tesseract|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|pyimagesearch.com|/2018/10/08/keras-vs-tensorflow-which-one-is-better-and-which-one-should-i-learn|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|pyimagesearch.com|/2018/10/15/deep-learning-hydroponics-and-medical-marijuana|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|pyimagesearch.com|/2018/10/22/object-tracking-with-dlib|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|pyimagesearch.com|/2018/10/29/multi-object-tracking-with-dlib|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|pyimagesearch.com|/2018/11/26/instance-segmentation-with-opencv|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|pyimagesearch.com|/2018/12/03/deep-learning-and-medical-image-analysis-with-keras|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|pyimagesearch.com|/2018/12/17/image-stitching-with-opencv-and-python|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|pyimagesearch.com|/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|pythonforengineers.com|/blog/build-a-reddit-bot-part-1|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
   },
   "https|pythonspot.com|/flask-web-app-with-python|": {
     "consecutive_failures": 0,
@@ -1991,6 +2391,14 @@
     "last_status": 200,
     "redirect_to": null
   },
+  "https|rsci.app.link|/wWUO7TN8SS|_p=c51629c09c007af2e31a90f5e0": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
   "https|ruslanspivak.com|/lsbasi-part1|": {
     "consecutive_failures": 0,
     "first_failed": null,
@@ -2011,6 +2419,30 @@
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|scottlilly.com|/learn-c-by-building-a-simple-rpg-index|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|semaphore.io|/community/tutorials/building-go-web-applications-and-microservices-using-gin|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|semaphore.io|/community/tutorials/how-to-use-godog-for-behavior-driven-development-in-go|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
     "last_class": "OK",
     "last_status": 200,
     "redirect_to": null
@@ -2037,7 +2469,7 @@
     "first_seen": "2026-07-04",
     "last_class": "OK",
     "last_status": 200,
-    "redirect_to": "https://shaunlebron.github.io/t3tr0s-slides/"
+    "redirect_to": null
   },
   "https|sheharyar.me|/blog/simple-chat-phoenix-elixir|": {
     "consecutive_failures": 0,
@@ -2046,6 +2478,22 @@
     "last_class": "OK",
     "last_status": 200,
     "redirect_to": "https://shyr.io/blog/simple-chat-phoenix-elixir/"
+  },
+  "https|shiny.posit.co|/r/getstarted|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|shyr.io|/blog/simple-chat-phoenix-elixir|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
   },
   "https|solarianprogrammer.com|/2018/01/10/writing-minimal-x86-64-jit-compiler-cpp|": {
     "consecutive_failures": 0,
@@ -2067,6 +2515,94 @@
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|sst.dev||": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|tartanllama.xyz|/writing-a-linux-debugger-advanced-topics|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|tartanllama.xyz|/writing-a-linux-debugger-breakpoints|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|tartanllama.xyz|/writing-a-linux-debugger-dwarf-step|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|tartanllama.xyz|/writing-a-linux-debugger-elf-dwarf|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|tartanllama.xyz|/writing-a-linux-debugger-registers|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|tartanllama.xyz|/writing-a-linux-debugger-setup|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|tartanllama.xyz|/writing-a-linux-debugger-source-break|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|tartanllama.xyz|/writing-a-linux-debugger-source-signal|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|tartanllama.xyz|/writing-a-linux-debugger-unwinding|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|tartanllama.xyz|/writing-a-linux-debugger-variables|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
     "last_class": "OK",
     "last_status": 200,
     "redirect_to": null
@@ -2103,11 +2639,27 @@
     "last_status": 200,
     "redirect_to": null
   },
+  "https|tomasp.net|/blog/2018/write-your-own-excel|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
   "https|towardsdatascience.com|/ai-generates-taylor-swifts-song-lyrics-6fd92a03ef7e|": {
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "BLOCKED",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|towardsdatascience.com|/an-easy-tutorial-about-sentiment-analysis-with-deep-learning-and-keras-2bf52b9cba91|source=post_page-----50494e2a95c8-----------------------------------------": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
     "last_status": 200,
     "redirect_to": null
   },
@@ -2215,6 +2767,22 @@
     "last_status": 200,
     "redirect_to": "https://towardsdatascience.com/obtaining-historical-and-real-time-crypto-data-with-very-simple-web-programming-7b481f153630/"
   },
+  "https|towardsdatascience.com|/building-a-neural-network-from-scratch-8f03c5c50adc|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|towardsdatascience.com|/evaluation-metrics-for-recommendation-systems-an-overview-71290690ecba|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
   "https|towardsdatascience.com|/finding-similar-quora-questions-with-bow-tfidf-and-random-forest-c54ad88d1370|": {
     "consecutive_failures": 0,
     "first_failed": null,
@@ -2247,6 +2815,14 @@
     "last_status": 200,
     "redirect_to": "https://towardsdatascience.com/how-llms-work-pre-training-to-post-training-neural-networks-hallucinations-and-inference/"
   },
+  "https|towardsdatascience.com|/how-llms-work-pre-training-to-post-training-neural-networks-hallucinations-and-inference|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
   "https|towardsdatascience.com|/how-to-build-a-simple-song-recommender-296fcbc8c85|": {
     "consecutive_failures": 0,
     "first_failed": null,
@@ -2263,6 +2839,22 @@
     "last_status": 200,
     "redirect_to": "https://towardsdatascience.com/building-a-neural-network-from-scratch-8f03c5c50adc/"
   },
+  "https|towardsdatascience.com|/implementing-real-time-object-detection-system-using-pytorch-and-opencv-70bac41148f7|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|towardsdatascience.com|/multiclass-classification-evaluation-with-roc-curves-and-roc-auc-294fd4617e3a|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
   "https|towardsdatascience.com|/natural-language-processing-count-vectorization-with-scikit-learn-e7804269bb5e|": {
     "consecutive_failures": 0,
     "first_failed": null,
@@ -2278,6 +2870,14 @@
     "last_class": "OK",
     "last_status": 200,
     "redirect_to": "https://towardsdatascience.com/implementing-real-time-object-detection-system-using-pytorch-and-opencv-70bac41148f7/"
+  },
+  "https|towardsdatascience.com|/obtaining-historical-and-real-time-crypto-data-with-very-simple-web-programming-7b481f153630|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
   },
   "https|towardsdatascience.com|/solving-a-simple-classification-problem-with-python-fruits-lovers-edition-d20ab6b071d2|": {
     "consecutive_failures": 0,
@@ -2359,6 +2959,14 @@
     "last_status": 200,
     "redirect_to": null
   },
+  "https|viewsourcecode.org|/snaptoken/kilo|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
   "https|web.archive.org|/web/20260214230813/https://www.thepolyglotdeveloper.com/2016/12/create-real-time-chat-app-golang-angular-2-websockets|": {
     "consecutive_failures": 0,
     "first_failed": null,
@@ -2391,6 +2999,14 @@
     "last_status": 200,
     "redirect_to": "https://ably.com/examples"
   },
+  "https|www.adit.io|/posts/2013-04-15-making-a-website-with-haskell.html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
   "https|www.aosabook.org|/en/500L/a-python-interpreter-written-in-python.html|": {
     "consecutive_failures": 0,
     "first_failed": null,
@@ -2398,6 +3014,30 @@
     "last_class": "OK",
     "last_status": 200,
     "redirect_to": "https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html"
+  },
+  "https|www.ardendertat.com|/2011/05/30/how-to-implement-a-search-engine-part-1-create-index|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.ardendertat.com|/2011/05/31/how-to-implement-a-search-engine-part-2-query-index|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.ardendertat.com|/2011/07/17/how-to-implement-a-search-engine-part-3-ranking-tf-idf|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
   },
   "https|www.ashwinhariharan.tech|/blog/how-to-build-your-own-uber-for-x-app-part-2|": {
     "consecutive_failures": 7,
@@ -2431,12 +3071,20 @@
     "last_status": null,
     "redirect_to": null
   },
+  "https|www.byperth.com|/2018/04/25/guide-web-scraping-101-what-you-need-to-know-and-how-to-scrape-with-python-selenium-webdriver|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
   "https|www.codewall.co.uk|/laravel-crud-demo-with-resource-controller-tutorial|": {
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "BLOCKED",
-    "last_status": 403,
+    "last_class": "OK",
+    "last_status": 202,
     "redirect_to": null
   },
   "https|www.cs.nmsu.edu|/~pfeiffer/fuse-tutorial|": {
@@ -2479,6 +3127,14 @@
     "last_status": 200,
     "redirect_to": "https://www.dropbox.com/scl/fi/50bett7q7c2lajc/Let-s-Build-Instagram-with-Ruby-on-Rails-Free-Edition.pdf?rlkey=65rjaz62p7xqw3i5dbuniebct&dl=0"
   },
+  "https|www.dropbox.com|/scl/fi/50bett7q7c2lajc/Let-s-Build-Instagram-with-Ruby-on-Rails-Free-Edition.pdf|rlkey=65rjaz62p7xqw3i5dbuniebct&dl=0": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
   "https|www.eddywm.com|/lets-build-a-url-shortener-in-go-part-3-short-link-generation|": {
     "consecutive_failures": 0,
     "first_failed": null,
@@ -2519,10 +3175,90 @@
     "last_status": 200,
     "redirect_to": "https://philippflenker.com/hecto/"
   },
+  "https|www.freecodecamp.org|/news/build-a-desktop-chat-app-with-react-electron-and-chatkit-744d168e6f2f|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.freecodecamp.org|/news/build-native-desktop-apps-with-javascript-a49ede90d8e9|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.freecodecamp.org|/news/building-an-image-caption-generator-with-deep-learning-in-tensorflow-a142722e9b1f|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.freecodecamp.org|/news/building-chrome-extensions-in-react-parcel-79d0240dd58f|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.freecodecamp.org|/news/create-a-news-app-using-react-native-ced249263627|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.freecodecamp.org|/news/create-gameoflife-with-react-in-one-hour-8e686a410174|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.freecodecamp.org|/news/creating-a-twitter-bot-in-python-with-tweepy-ac524157a607|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
   "https|www.freecodecamp.org|/news/creating-apis-with-python-free-19-hour-course|": {
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.freecodecamp.org|/news/how-i-built-a-job-scraping-web-app-using-node-js-and-indreed-7fbba124bbdc|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.freecodecamp.org|/news/how-to-build-a-chat-application-using-react-redux-redux-saga-and-web-sockets-47423e4bc21a|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.freecodecamp.org|/news/how-to-build-a-delightful-loading-screen-in-5-minutes-847991da509f|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
     "last_class": "OK",
     "last_status": 200,
     "redirect_to": null
@@ -2535,10 +3271,74 @@
     "last_status": 200,
     "redirect_to": null
   },
+  "https|www.freecodecamp.org|/news/how-to-build-a-simple-search-bot-in-30-minutes-eb56fcedcdb1|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.freecodecamp.org|/news/how-to-build-an-html-calculator-app-from-scratch-using-javascript-4454b8714b98|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.freecodecamp.org|/news/how-to-build-your-own-react-boilerplate-2f8cbbeb9b3f|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.freecodecamp.org|/news/how-to-integrate-mailchimp-in-a-javascript-web-app-2a889fb43f6f|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.freecodecamp.org|/news/learn-to-create-a-line-chart-using-d3-js-4f43f1ee716b|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.freecodecamp.org|/news/learn-webpack-for-react-a36d4cac5060|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.freecodecamp.org|/news/making-your-own-face-recognition-system-29a8e728107c|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
   "https|www.freecodecamp.org|/news/think-like-a-programmer-how-to-build-snake-using-only-javascript-html-and-css-7b1479c3339e|": {
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.freecodecamp.org|/news/using-data-science-to-understand-what-makes-wine-taste-good-669b496c67ee|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
     "last_class": "OK",
     "last_status": 200,
     "redirect_to": null
@@ -2555,6 +3355,14 @@
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.geeksforgeeks.org|/python/voice-assistant-using-python|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
     "last_class": "OK",
     "last_status": 200,
     "redirect_to": null
@@ -2581,6 +3389,22 @@
     "first_seen": "2026-07-04",
     "last_class": "BLOCKED",
     "last_status": 403,
+    "redirect_to": null
+  },
+  "https|www.jmeiners.com|/lc3-vm|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.kodeco.com|/1044-building-ios-apps-with-xamarin-and-visual-studio|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
     "redirect_to": null
   },
   "https|www.learnopencv.com|/average-face-opencv-c-python-tutorial|": {
@@ -2613,6 +3437,14 @@
     "first_seen": "2026-07-04",
     "last_class": "BLOCKED",
     "last_status": 403,
+    "redirect_to": null
+  },
+  "https|www.lessmilk.com|/phaser-game-tutorial|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
     "redirect_to": null
   },
   "https|www.pubnub.com|/blog/build-yourself-a-web-framework-in-less-than-20-lines-of-code|": {
@@ -2855,13 +3687,21 @@
     "last_status": 200,
     "redirect_to": "https://www.kodeco.com/1044-building-ios-apps-with-xamarin-and-visual-studio"
   },
+  "https|www.sheshbabu.com|/posts/rust-wasm-yew-single-page-application|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
   "https|www.silverstripe.org|/learn/lessons|": {
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "OK",
     "last_status": 200,
-    "redirect_to": "https://www.silverstripe.org/learn/lessons"
+    "redirect_to": null
   },
   "https|www.sitepoint.com|/d3-js-data-visualizations|": {
     "consecutive_failures": 0,
@@ -2869,6 +3709,14 @@
     "first_seen": "2026-07-04",
     "last_class": "BLOCKED",
     "last_status": 403,
+    "redirect_to": null
+  },
+  "https|www.skybert.net|/python/developing-a-restful-micro-service-in-python|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
     "redirect_to": null
   },
   "https|www.swift.org|/getting-started/swiftui|": {
@@ -2886,6 +3734,14 @@
     "last_class": "OK",
     "last_status": 200,
     "redirect_to": "https://www.twilio.com/en-us/blog/developers/tutorials/integrations/choose-your-own-adventure-presentations-with-reveal-js-python-and-websockets-html"
+  },
+  "https|www.twilio.com|/en-us/blog/developers/tutorials/integrations/choose-your-own-adventure-presentations-with-reveal-js-python-and-websockets-html|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
   },
   "https|www.udemy.com||": {
     "consecutive_failures": 0,
@@ -2951,6 +3807,14 @@
     "last_status": 200,
     "redirect_to": null
   },
+  "https|www.youtube.com|/watch|v=0_GJ1w_iG44&feature=youtu.be": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
   "https|www.youtube.com|/watch|v=3QngsWA9IEE": {
     "consecutive_failures": 0,
     "first_failed": null,
@@ -2959,10 +3823,34 @@
     "last_status": 200,
     "redirect_to": null
   },
+  "https|www.youtube.com|/watch|v=4E4V9F3cbp4&feature=youtu.be": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.youtube.com|/watch|v=71AsYo2q_0Y&feature=youtu.be": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
   "https|www.youtube.com|/watch|v=78tNYZUS-ps": {
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.youtube.com|/watch|v=7dAt-JMSCVQ&feature=youtu.be": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
     "last_class": "OK",
     "last_status": 200,
     "redirect_to": null
@@ -2979,6 +3867,22 @@
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.youtube.com|/watch|v=Aut-wfXacXg&feature=youtu.be": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.youtube.com|/watch|v=J8IFNKzs3TI&feature=youtu.be": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
     "last_class": "OK",
     "last_status": 200,
     "redirect_to": null
@@ -3007,6 +3911,14 @@
     "last_status": 200,
     "redirect_to": null
   },
+  "https|www.youtube.com|/watch|v=O3nmP-lZAdg&feature=youtu.be": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
   "https|www.youtube.com|/watch|v=SSu00IRRraY&index=4&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU": {
     "consecutive_failures": 0,
     "first_failed": null,
@@ -3031,10 +3943,26 @@
     "last_status": 200,
     "redirect_to": null
   },
+  "https|www.youtube.com|/watch|v=U9YKZrDX0CQ&feature=youtu.be": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
   "https|www.youtube.com|/watch|v=XnoTmO06OYo": {
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.youtube.com|/watch|v=_W0RN_Cqhpg&feature=youtu.be": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
     "last_class": "OK",
     "last_status": 200,
     "redirect_to": null
@@ -3087,6 +4015,14 @@
     "last_status": 200,
     "redirect_to": null
   },
+  "https|www.youtube.com|/watch|v=mEPm9w5QlJM&feature=youtu.be": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
   "https|www.youtube.com|/watch|v=o_OZdbCzHUA": {
     "consecutive_failures": 0,
     "first_failed": null,
@@ -3099,6 +4035,14 @@
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.youtube.com|/watch|v=sMA1dKbv33Y&feature=youtu.be": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
     "last_class": "OK",
     "last_status": 200,
     "redirect_to": null
@@ -3119,10 +4063,34 @@
     "last_status": 200,
     "redirect_to": null
   },
+  "https|www.youtube.com|/watch|v=x4DydJKVvQk&feature=youtu.be": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|www.youtube.com|/watch|v=yqwfP2vXWJQ&feature=youtu.be": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
   "https|wyag.thb.lt||": {
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|yasoob.me|/2017/04/13/making-a-reddit-facebook-messenger-bot|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
     "last_class": "OK",
     "last_status": 200,
     "redirect_to": null
@@ -3230,6 +4198,14 @@
     "last_class": "OK",
     "last_status": 200,
     "redirect_to": "https://www.youtube.com/watch?v=yqwfP2vXWJQ&feature=youtu.be"
+  },
+  "https|zapier.com|/blog/how-to-build-redux|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-09-14",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
   },
   "https|zapier.com|/engineering/how-to-build-redux|": {
     "consecutive_failures": 0,
