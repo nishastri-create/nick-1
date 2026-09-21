@@ -56,7 +56,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Build a Live Code-reloader Library for C++](https://howistart.org/posts/cpp/1/index.html)
 - [Write a hash table in C](https://github.com/jamesroutley/write-a-hash-table)
 - [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
-- [Write a Bootloader in C](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/)
+- [Write a Bootloader in C](https://3zanders.co.uk/2017/10/13/writing-a-bootloader/)
 - [Linux Container in 500 Lines of Code](https://blog.lizzie.io/linux-containers-in-500-loc.html)
 - [Write Your Own Virtual Machine](https://www.jmeiners.com/lc3-vm/)
 - [Learning KVM - Implement Your Own Linux Kernel](https://david942j.blogspot.com/2018/10/note-learning-kvm-implement-your-own.html)
