@@ -56,7 +56,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Build a Live Code-reloader Library for C++](https://howistart.org/posts/cpp/1/index.html)
 - [Write a hash table in C](https://github.com/jamesroutley/write-a-hash-table)
 - [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
-- [Write a Bootloader in C](https://3zanders.co.uk/2017/10/13/writing-a-bootloader/)
+- [Write a Bootloader in C](https://parkermakes.uk/2017/10/13/writing-a-bootloader/)
 - [Linux Container in 500 Lines of Code](https://blog.lizzie.io/linux-containers-in-500-loc.html)
 - [Write Your Own Virtual Machine](https://www.jmeiners.com/lc3-vm/)
 - [Learning KVM - Implement Your Own Linux Kernel](https://david942j.blogspot.com/2018/10/note-learning-kvm-implement-your-own.html)
@@ -286,9 +286,6 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Build A Simple Search Bot in 30 minutes](https://www.freecodecamp.org/news/how-to-build-a-simple-search-bot-in-30-minutes-eb56fcedcdb1)
 - [Build A Job Scraping Web App](https://www.freecodecamp.org/news/how-i-built-a-job-scraping-web-app-using-node-js-and-indreed-7fbba124bbdc)
 - [Building a GitHub App](https://blog.scottlogic.com/2017/05/22/gifbot-github-integration.html)
-- How to build your own Uber-for-X App using JavaScript, Node.JS, MongoDB and Web Sockets
-  - [Part 1](https://www.ashwinhariharan.tech/blog/how-to-build-your-own-uber-for-x-app/)
-  - [Part 2](https://www.ashwinhariharan.tech/blog/how-to-build-your-own-uber-for-x-app-part-2/)
 
 #### Vue
 
@@ -380,9 +377,6 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Microservices with Docker, Flask, and React](https://testdriven.io/)
 - [Build A Simple Web App With Flask](https://pythonspot.com/flask-web-app-with-python/)
 - [Create A Django API in under 20 minutes](https://codeburst.io/create-a-django-api-in-under-20-minutes-2a082a60f6f3)
-- Build a Community-driven delivery application with Django, Postgres and JavaScript
-  - [Part 1](https://www.ashwinhariharan.tech/blog/thinking-of-building-a-contact-tracing-application-heres-what-you-can-do-instead/)
-  - [Part 2](https://www.ashwinhariharan.tech/blog/thinking-of-building-a-contact-tracing-application-heres-what-you-can-do-instead-part-2/)
 - Realtime Chat application with Vue, django-notifs, RabbitMQ and uWSGI
   - [Part 1](https://danidee10.github.io/2018/01/01/realtime-django-1.html)
   - [Part 2](https://danidee10.github.io/2018/01/03/realtime-django-2.html)
