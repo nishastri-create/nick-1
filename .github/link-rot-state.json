@@ -464,7 +464,7 @@
     "redirect_to": null
   },
   "https|codequs.com|/p/S14jQ5UyG/build-a-distributed-streaming-system-with-apache-kafka-and-python|": {
-    "consecutive_failures": 14,
+    "consecutive_failures": 15,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "SUSPECT",
@@ -572,7 +572,7 @@
     "first_failed": null,
     "first_seen": "2026-07-04",
     "last_class": "OK",
-    "last_status": 200,
+    "last_status": 204,
     "redirect_to": null
   },
   "https|developer.mozilla.org|/en-US/docs/Games/Tutorials/2D_breakout_game_Phaser|": {
@@ -1156,7 +1156,7 @@
     "first_failed": null,
     "first_seen": "2026-09-14",
     "last_class": "OK",
-    "last_status": 200,
+    "last_status": 204,
     "redirect_to": null
   },
   "https|javascript30.com||": {
@@ -1232,7 +1232,7 @@
     "redirect_to": null
   },
   "https|jguegant.github.io|//jguegant.github.io/blogs/tech/meta-crush-saga.html|": {
-    "consecutive_failures": 14,
+    "consecutive_failures": 15,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "SUSPECT",
@@ -1987,6 +1987,14 @@
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|parkermakes.uk|/2017/10/13/writing-a-bootloader|": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-10-05",
     "last_class": "OK",
     "last_status": 200,
     "redirect_to": null
@@ -3091,8 +3099,8 @@
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "BLOCKED",
-    "last_status": 403,
+    "last_class": "OK",
+    "last_status": 202,
     "redirect_to": null
   },
   "https|www.cs.nmsu.edu|/~pfeiffer/fuse-tutorial|": {
@@ -4539,9 +4547,9 @@
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "BLOCKED",
-    "last_status": 403,
-    "redirect_to": null
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": "https://exercism.org/"
   },
   "http|www.goldsborough.me|/rust/web/tutorial/2018/01/20/17-01-11-writing_a_microservice_in_rust|": {
     "consecutive_failures": 0,
