@@ -656,7 +656,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Full Stack Python](https://www.fullstackpython.com/)
 - [Node School](https://nodeschool.io/)
 - [DigitalOcean Community Tutorials](https://www.digitalocean.com/community/tutorials)
-- [Exercism](http://www.exercism.io/)
+- [Exercism](https://exercism.org/)
 - [Egghead.io](https://egghead.io/)
 - [Michael Herman's Blog](https://mherman.org/)
 - [Enlight](https://enlight.nyc/)
