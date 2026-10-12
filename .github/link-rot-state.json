@@ -464,7 +464,7 @@
     "redirect_to": null
   },
   "https|codequs.com|/p/S14jQ5UyG/build-a-distributed-streaming-system-with-apache-kafka-and-python|": {
-    "consecutive_failures": 15,
+    "consecutive_failures": 16,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "SUSPECT",
@@ -723,6 +723,14 @@
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
+    "last_class": "OK",
+    "last_status": 200,
+    "redirect_to": null
+  },
+  "https|exercism.org||": {
+    "consecutive_failures": 0,
+    "first_failed": null,
+    "first_seen": "2026-10-12",
     "last_class": "OK",
     "last_status": 200,
     "redirect_to": null
@@ -1232,7 +1240,7 @@
     "redirect_to": null
   },
   "https|jguegant.github.io|//jguegant.github.io/blogs/tech/meta-crush-saga.html|": {
-    "consecutive_failures": 15,
+    "consecutive_failures": 16,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "SUSPECT",
@@ -4280,10 +4288,10 @@
     "redirect_to": "https://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/"
   },
   "http|dev.stephendiehl.com|/fun|": {
-    "consecutive_failures": 0,
-    "first_failed": null,
+    "consecutive_failures": 1,
+    "first_failed": "2026-10-12",
     "first_seen": "2026-07-04",
-    "last_class": "BLOCKED",
+    "last_class": "HARD_DEAD",
     "last_status": null,
     "redirect_to": null
   },
